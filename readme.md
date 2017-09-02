@@ -6,5 +6,5 @@
 
 ### Ch1: 基础
 
-+ **欧几里得算法求最大公约数**
-    - [Python]()
++ 欧几里得算法求最大公约数
+    - [Python](https://github.com/oaoouo/algorithms_4th/blob/master/Python/gcd.py)
