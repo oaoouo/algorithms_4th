@@ -24,12 +24,15 @@ public class ex33
     public static double[][] mult(double[][] a, double[][] b)
     {
       // 矩阵相乘
+      // (不一定是方阵)
       int N = a.length;
-      double[][] res = new double[N][N];
+      int M = b.length;
+      int Q = a[0].length;
+      double[][] res = new double[N][M]; // 自动初始化
       for (int i = 0; i < N; i++) {
-        for (int j = 0; j < N; j++) {
-          for (int k = 0; k < N; k++) {
-            res[i][j] = a[i][k] + a[k][j];
+        for (int j = 0; j < M; j++) {
+          for (int k = 0; k < Q; k++) {
+            res[i][j] += a[i][k] * a[k][j];
           }
         }
       }
