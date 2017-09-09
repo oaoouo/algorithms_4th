@@ -14,4 +14,6 @@
     - [Python](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sqrt.py)
 + 打乱数组
     - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Shuffle.java)
++ Dijkstra双栈算法
+    - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Evaluate.java)
 + [提高题](https://github.com/oaoouo/algorithms_4th/tree/master/Oj)
