@@ -16,4 +16,12 @@
     - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Shuffle.java)
 + Dijkstra双栈算法
     - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Evaluate.java)
++ 下压栈(能够动态调整数组大小)
+    - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/ResizingArrayStack.java)
++ 下压栈(链表实现)
+    - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/LinkListStack.java)
++ 队列(链表实现)
+    - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/LinkListQueue.java)
++ 队列(C语言宏实现)
+    - [C](https://github.com/oaoouo/algorithms_4th/blob/master/C/queue.h)
 + [提高题](https://github.com/oaoouo/algorithms_4th/tree/master/Oj)
