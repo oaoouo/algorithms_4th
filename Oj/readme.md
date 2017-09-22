@@ -12,3 +12,4 @@
 + [有理数](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_2/Rational.java)
 + [累加器方差](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_2/Accumulator.java)
 + [以栈为目标的队列](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/Steque.java)
++ [双端队列(链表实现)](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/Deque.java)
