@@ -14,3 +14,5 @@
 + [以栈为目标的队列](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/Steque.java)
 + [双端队列(链表实现)](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/Deque.java)
 + [随机背包](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/RandomBag.java)
++ [随机队列](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/RandomQueue.java)
++ [Josephus问题](https://github.com/oaoouo/algorithms_4th/blob/master/Oj/ch1_3/Josephus.py)
