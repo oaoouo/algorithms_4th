@@ -24,4 +24,9 @@
     - [Java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/LinkListQueue.java)
 + 队列(C语言宏实现)
     - [C](https://github.com/oaoouo/algorithms_4th/blob/master/C/queue.h)
++ UnionFind
+    - [QuickFind](https://github.com/oaoouo/algorithms_4th/blob/master/Java/UF.java)
+    - [QuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/QUUF.java)
+    - [WeightedQuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/WQUUF.java)
+    - [PathCompressWeightedQuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/PCWQUUF.java)
 + [提高题](https://github.com/oaoouo/algorithms_4th/tree/master/Oj)
