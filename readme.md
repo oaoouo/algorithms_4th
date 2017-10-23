@@ -4,6 +4,8 @@
 
 ## Algorithms
 
++ [提高题](https://github.com/oaoouo/algorithms_4th/tree/master/Oj)
+
 ### Ch1: 基础
 
 + 欧几里得算法求最大公约数
@@ -29,4 +31,16 @@
     - [QuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/QUUF.java)
     - [WeightedQuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/WQUUF.java)
     - [PathCompressWeightedQuickUnion](https://github.com/oaoouo/algorithms_4th/blob/master/Java/PCWQUUF.java)
-+ [提高题](https://github.com/oaoouo/algorithms_4th/tree/master/Oj)
+
+### Ch2: 排序
+
++ [选择排序]()
++ [插入排序]()
++ [希尔排序]()
++ 归并排序
+    - [自上而下的归并]()
+    - [自下而上的归并]()
++ [快速排序]()
++ 堆排序
+    - [优先队列]()
+    - [堆排序]()
