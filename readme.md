@@ -34,11 +34,13 @@
 
 ### Ch2: 排序
 
-+ [选择排序]()
-+ [插入排序]()
-+ [希尔排序]()
+> Python实现
+
++ [选择排序](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/select_sort.py)
++ [插入排序](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/insert_sort.py)
++ [希尔排序](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/shell_sort.py)
 + 归并排序
-    - [自上而下的归并]()
+    - [自上而下的归并](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py)
     - [自下而上的归并]()
 + [快速排序]()
 + 堆排序
