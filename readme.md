@@ -30,7 +30,7 @@
 
 | 算法 | QuickFind | 算法 | QuickUnion | 算法 | WeightedQuickUnion | 算法 | PathCompressionWeightedQuickUnion |
 | ---- | --------- | ---- | ---------- | ---- | ------------------ | ---- | --------------------------------- |
-| Java | [UF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/UF.java) | Java | [QUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/QUUF.java) | Java | [WQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/WQUUF.java) | Java | i[PCWQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/PCWQUUF.java) |
+| Java | [UF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/UF.java) | Java | [QUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/QUUF.java) | Java | [WQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/WQUUF.java) | Java | [PCWQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/PCWQUUF.java) |
 
 ### Ch2: 排序
 
