@@ -44,4 +44,4 @@
 
 | 算法 | 优先队列 | 算法 | 堆排序 |
 | ---- | -------- | ---- | ------ |
-| Python | [maxpq.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq.py) | [maxpq_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq_sort.py) |
+| Python | [maxpq.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq.py) | Python | [maxpq_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq_sort.py) |
