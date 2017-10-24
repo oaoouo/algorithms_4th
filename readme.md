@@ -41,3 +41,7 @@
 | 算法 | 归并排序 | 算法 | 快速排序 |
 |------|----------|------|----------|
 | Python | [merge_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py) | Python | [quick_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py)
+
+| 算法 | 优先队列 | 算法 | 堆排序 |
+| ---- | -------- | ---- | ------ |
+| Python | [maxpq.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq.py) | [maxpq_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq_sort.py) |
