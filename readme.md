@@ -9,9 +9,9 @@
 ### Ch1: 基础
 
 | 算法 | 欧几里得算法求最大公约数 | 算法 | 二分法查找元素 |
-| ------------- | ----------- | ---------------- |
+| ------------- | ----------- | ---------------- | ------ |
 | Python | [gcd.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/gcd.py) | C | [bs.c](https://github.com/oaoouo/algorithms_4th/blob/master/C/bs.c) |
-
+<br>
 | 算法 | 牛顿法求平方根 | 算法 | 打乱数组 |
 | ------------- | ------- | ------- | ----- |
 | Python | [sqrt.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sqrt.py) | Java | [Shuffle.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Shuffle.java) |
@@ -29,7 +29,7 @@
 | Java | [LinkListQueue.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/LinkListQueue.java) | C | [queue.h](https://github.com/oaoouo/algorithms_4th/blob/master/C/queue.h) |
 
 | 算法 | QuickFind | 算法 | QuickUnion | 算法 | WeightedQuickUnion | 算法 | PathCompressionWeightedQuickUnion |
-| ---- | --------- | ---- | ---------- | ---- | ------------------ | ---- |
+| ---- | --------- | ---- | ---------- | ---- | ------------------ | ---- | --------------------------------- |
 | Java | [UF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/UF.java) | Java | [QUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/QUUF.java) | Java | [WQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/WQUUF.java) | Java | i[PCWQUUF.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/PCWQUUF.java) |
 
 ### Ch2: 排序
