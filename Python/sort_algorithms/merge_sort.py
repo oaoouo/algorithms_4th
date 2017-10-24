@@ -21,7 +21,7 @@ def merge(l, start, mid, end):
 def from_up_2_bottom(l):
     """
     自顶向下的归并排序
-    先分再合
+    算法的时间复杂度: O(NlogN)
     """
     merge_sort(l, 0, len(l)-1)
 
@@ -34,7 +34,24 @@ def merge_sort(l, start, end):
     merge(l, start, mid, end)  # 排序
 
 
+def from_bottom_2_up(l):
+    """
+    自底向上的归并排序
+    算法的时间复杂度: O(NlogN)
+    """
+    sz = 1
+    while (sz < len(l)):
+        i = 0  # 注意i是从0开始的
+        while (i < len(l)):
+            merge(l, i, i+sz-1, min(i+sz+sz-1, len(l)-1))
+            i += (sz + sz)
+        sz += sz
+
+
 if __name__ == '__main__':
-    l = [1, 5, 3, 6, 8, 9, 10, 200, 45]
-    from_up_2_bottom(l)
-    print(l)
+    l1 = [1, 5, 3, 6, 8, 9, 10, 200, 45, 8, 100, 2]
+    l2 = [1, 5, 3, 6, 8, 9, 10, 200, 45, 8, 100, 2]
+    from_up_2_bottom(l1)
+    from_bottom_2_up(l2)
+    print(l1)
+    print(l2)
