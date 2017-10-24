@@ -40,4 +40,4 @@
 
 | 算法 | 归并排序 | 算法 | 快速排序 |
 |------|----------|------|----------|
-| Python | [merge_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py) |
+| Python | [merge_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py) | Python | [quick_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/merge_sort.py)
