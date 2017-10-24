@@ -11,7 +11,7 @@
 | 算法 | 欧几里得算法求最大公约数 | 算法 | 二分法查找元素 |
 | ------------- | ----------- | ---------------- | ------ |
 | Python | [gcd.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/gcd.py) | C | [bs.c](https://github.com/oaoouo/algorithms_4th/blob/master/C/bs.c) |
-<br>
+
 | 算法 | 牛顿法求平方根 | 算法 | 打乱数组 |
 | ------------- | ------- | ------- | ----- |
 | Python | [sqrt.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sqrt.py) | Java | [Shuffle.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/Shuffle.java) |
