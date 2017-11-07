@@ -45,3 +45,10 @@
 | 算法 | 优先队列 | 算法 | 堆排序 |
 | ---- | -------- | ---- | ------ |
 | Python | [maxpq.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq.py) | Python | [maxpq_sort.py](https://github.com/oaoouo/algorithms_4th/blob/master/Python/sort_algorithms/maxpq_sort.py) |
+
+### Ch3: 查找
+
+| 算法 | 基于无序链表的符号表 | 算法 | 基于有序数组的符号表 |
+| ---- | -------------------- | ---- | -------------------- |
+| Java | [LLST.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/LLST.java)        | Java |   [ABST.java](https://github.com/oaoouo/algorithms_4th/blob/master/Java/ABST.java)       |
+

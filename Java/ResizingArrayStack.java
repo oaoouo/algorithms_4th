@@ -20,7 +20,7 @@ public class ResizingArrayStack<Item> implements Iterable<Item>
   {
     // 动态改变数组a的大小为max
     Item[] temp = (Item[]) new Object[max]; // *泛型创建数组的方式
-    for (int i = 0; i < max; i++)
+    for (int i = 0; i < a.length; i++)
     {
       temp[i] = a[i];
     }
@@ -36,10 +36,10 @@ public class ResizingArrayStack<Item> implements Iterable<Item>
     a[N++] = item;
   }
 
-  public Item pop(Item item)
+  public Item pop()
   {
     Item item = a[--N];
-    a[N] == null; // *避免对象游离
+    a[N] = null; // *避免对象游离
     if (N > 0 && N == a.length/4)
     {
       // 只缩小一半避免过多的调用resize
